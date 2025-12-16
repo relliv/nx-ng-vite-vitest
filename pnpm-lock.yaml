@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@angular-devkit/core':
+        specifier: ~20.3.0
+        version: 20.3.13(chokidar@4.0.3)
       '@nx/angular':
         specifier: 22.2.5
         version: 22.2.5(bd72ba3541c706393b70fd74d661e2a6)
