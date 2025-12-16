@@ -15,6 +15,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-ng-vite-vitest/awesome-library": [
+        "packages/features/awesome-library/src/index.ts"
+      ]
+    }
   }
 }
